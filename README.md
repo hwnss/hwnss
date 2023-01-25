@@ -2,9 +2,7 @@
 <img src="./img/waifu_profile.png" width="200" align="right"/>
 <br/>
 
-<div align="center">
 <img src="./img/aboutme03.webp" width="500" />
-</div>
 
 ## 🌱 About me:
 
@@ -29,9 +27,6 @@
 <div align="center">
 <img src="./img/aboutme01.webp" width="500">
 </div>
-<br/>
-<img src="./img/test.webp" width="190" align="right">
-
 <br/>
   
 <sub> *“The stars are only visible in the dark.” – Imagine Dragons* </sub>

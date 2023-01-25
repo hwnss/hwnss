@@ -16,11 +16,11 @@
 - Familiar with **Debian**, **Ubuntu** and **Archlinux** (only a little)
 
 - Understand Spanish (Native) and English
-  <img src="./img/pixelscapes_ Photo.gif" width="300" align="right" />
-  <br/>
+  <!--<img src="./img/pixelscapes_ Photo.gif" width="300" align="right" />
+  <br/>-->
 
 <br/>
-<img src="./img/banner-elainaa.png" width="500" /><br/>
+<img src="./img/pixelgif.webp" width="500" /><br/>
   
 <sub> *“Las estrellas solo son visibles en la oscuridad.” – Imagine Dragons* </sub>
 <!--

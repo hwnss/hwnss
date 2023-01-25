@@ -1,5 +1,5 @@
 <div>
-<img src="./img/Profile-elaina.png" width="300" align="right" />
+<img src="./img/hutaodark.jpeg" width="300" align="right" />
 <br/>
 <img src="./img/aboutme03.webp" width="500" />
 <br/>
@@ -15,9 +15,8 @@
 
 - Familiar with **Debian**, **Ubuntu** and **Archlinux** (only a little)
 
-- Understand Spanish (Native) and English
-  <!--<img src="./img/pixelscapes_ Photo.gif" width="300" align="right" />
-  <br/>-->
+- Understand Spanish (Native) and English -<img src="./.gif" width="300" align="right" />
+  <br/>
 
 <br/>
 <img src="./img/station_cyber.gif" width="500" />

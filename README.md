@@ -4,7 +4,7 @@
  
 ## 🌱 About me:
 
-- Name **Hans Morales**
+- Name **Hans M**
 
 - Live in **Arauco, Chile**
 

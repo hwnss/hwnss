@@ -1,7 +1,7 @@
 <div>
 <img src="./img/waifu_profile.png" width="300" align="right"/>
-<br/>
-<img src="./img/aboutme03.webp" width="500" />
+<!--<br/>
+<img src="./img/aboutme03.webp" width="500" />-->
 <br/>
 <br/>
  
@@ -25,7 +25,7 @@
   **Nothing for now...**
 
 <br/>
-<img src="./img/cat_sunset.jpg" width="340" />
+<img src="./img/cat_sunset.jpg" width="500" />
 <br/>
   
 <sub> *“The stars are only visible in the dark.” – Imagine Dragons* </sub>

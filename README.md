@@ -1,5 +1,5 @@
 <div>
-<img src="./img/profile.png" width="300" align="300px"/>
+<img src="./img/profile.png" width="300" align="right"/>
 <br/>
 <img src="./img/aboutme03.webp" width="500" />
 <br/>

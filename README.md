@@ -24,7 +24,7 @@
 
 - **Blog web page**: Coming soon...
 
-- **Frost Client*: https://github.com/hanssy-cmd/frost-client
+- **Frost Client**: https://github.com/hanssy-cmd/frost-client
 
 <br/>
 <img src="./img/about_whiteandblack_style.gif" width="500">

@@ -16,8 +16,7 @@
 
 - Familiar with **Debian**, **Ubuntu** and **Archlinux** (only a little)
 
-- Understand Spanish (Native) and English -<img src="./.gif" width="300" align="right" />
-  <br/>
+- Understand Spanish (Native) and English
 
   ## 💫 Repositories:
 

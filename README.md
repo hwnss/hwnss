@@ -1,5 +1,5 @@
 <div>
-<img src="./img/hutaodark.jpeg" width="200" align="right" border-radius="40px"/>
+<img src="./img/profile.png" width="200" align="right"/>
 <br/>
 <img src="./img/aboutme03.webp" width="500" />
 <br/>
@@ -7,7 +7,7 @@
   
 - Name **Hans Morales**
 
-- Live in **Chile**
+- Live in **Arauco, Chile**
 
 - Studying [***Back-end development***]
 

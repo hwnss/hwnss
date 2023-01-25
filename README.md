@@ -28,8 +28,9 @@
 <br/>
 <div align="center">
 <img src="./img/aboutme01.webp" width="500">
-<img src="./img/profile.png" width="200" align="right">
 </div>
+<br/>
+<img src="./img/profile.png" width="200" align="right">
 
 <br/>
   

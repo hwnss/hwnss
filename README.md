@@ -16,7 +16,7 @@
 - Familiar with **Debian**, **Ubuntu** and **Archlinux** (only a little)
 
 - Understand Spanish (Native) and English
-  <img src="./img/Waifu-elainaa.png" width="300" align="right" />
+  <img src="./img/pixelscapes_ Photo.gif" width="300" align="right" />
   <br/>
 
 <br/>

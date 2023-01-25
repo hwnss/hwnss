@@ -2,7 +2,7 @@
 <img src="./img/profile04.png" width="200" align="right"/>
 <br/>
 
-<img src="./img/aboutme02.webp" width="450" />
+<img src="./img/aboutme03.webp" width="450" />
 
 ## 🌱 About me:
 
@@ -10,7 +10,7 @@
 
 - Live in **Arauco, Chile**
 
-- Studying [***Back-end development***]
+- Studying [***Back-End Development***]
 
 - Good with **Javascript** , **CSS** , **HTML** and **Java**
 

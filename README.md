@@ -1,5 +1,5 @@
 <div>
-<img src="./img/waifu_profile.png" width="200" align="right"/>
+<img src="./img/profile01.png" width="200" align="right"/>
 <br/>
 
 <img src="./img/aboutme03.webp" width="450" />

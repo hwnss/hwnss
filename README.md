@@ -14,7 +14,7 @@
 
 - Good with **Javascript** , **CSS** , **HTML** and **Java**
 
-- Familiar with **Debian**, **Ubuntu** and **Archlinux** (only a little)
+- Familiar with **Ubuntu** and **Archlinux** (only a little)
 
 - Understand Spanish (Native) and English
 

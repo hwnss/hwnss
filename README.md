@@ -23,7 +23,7 @@
   **Nothing for now...**
 
 <br/>
-<img src="./img/aboutme01.webp" width="500" align="center"/>
+<img src="./img/aboutme01.webp" width="500" align="right"/>
 <br/>
   
 <sub> *“The stars are only visible in the dark.” – Imagine Dragons* </sub>

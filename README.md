@@ -16,7 +16,7 @@
 
 - Understand Spanish (Native) and English
 
-- Funfack: I like kittens and I take drawing as a hobby and as I work I like programming
+- Fun fact: When I was little they stuck a pencil in my eye (my eye is fine XD). 
 
  ## 💫 Repositories:
 

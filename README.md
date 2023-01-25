@@ -18,7 +18,7 @@
 
 - Funfack: I like kittens and I take drawing as a hobby and as I work I like programming
 
-  ## 💫 Repositories:
+ ## 💫 Repositories:
 
 - **Porfolio web**: Coming soon...
 

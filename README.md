@@ -1,7 +1,5 @@
 <div>
 <img src="./img/profile01.png" width="200" align="right"/>
-<br/>
-
  <!---<img src="./img/about_whiteandblack_style0.gif" width="500" />-->
 ## 🌱 About me:
 

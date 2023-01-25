@@ -1,5 +1,5 @@
 <div>
-<img src="./img/hutaodark.jpeg" width="300" align="right" />
+<img src="./img/hutaodark.jpeg" width="300" align="right" border="40px"/>
 <br/>
 <img src="./img/aboutme03.webp" width="500" />
 <br/>

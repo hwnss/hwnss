@@ -26,7 +26,7 @@
   **Nothing for now...**
 
 <br/>
-<div align="center">
+
 <img src="./img/aboutme01.webp" width="500">
 </div>
 

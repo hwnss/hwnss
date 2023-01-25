@@ -1,10 +1,12 @@
+#### 🌱 About me:
+
 <div>
 <img src="./img/waifu_profile.png" width="300" align="right"/>
 <br/>
 <img src="./img/aboutme03.webp" width="500" />
 <br/>
 <br/>
-  #About me 👀
+ 
 - Name **Hans Morales**
 
 - Live in **Arauco, Chile**

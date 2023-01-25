@@ -21,19 +21,13 @@
 
   ## 💫 Repositories:
 
-  - [**Frost web page**]: Coming soon.
+  - [**Porfolio web**]: Coming soon...
 
-  - [**Frost web page**]: Coming soon.
+  - [**Blog web page**]: Coming soon...
 
-  - [**Frost web page**]: Coming soon.
+  - [**Frost web page**]: Coming soon...
 
-  - [**Frost web page**]: Coming soon.
-
-  - [**Frost web page**]: Coming soon.
-
-  - [**Frost web page**]: Coming soon.
-
-  - [**Frost web page**]: Coming soon.
+  - [**Frost client Discord**]: Coming soon...
 
 <br/>
 <div align="center">

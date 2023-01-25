@@ -1,5 +1,3 @@
-#### 🌱 About me:
-
 <div>
 <img src="./img/waifu_profile.png" width="300" align="right"/>
 <br/>
@@ -7,6 +5,8 @@
 <br/>
 <br/>
  
+ #### 🌱 About me:
+
 - Name **Hans Morales**
 
 - Live in **Arauco, Chile**
@@ -19,6 +19,10 @@
 
 - Understand Spanish (Native) and English -<img src="./.gif" width="300" align="right" />
   <br/>
+
+  #### 💫 Repositories:
+
+  **Nothing for now...**
 
 <br/>
 <img src="./img/cat_sunset.jpg" width="500" />

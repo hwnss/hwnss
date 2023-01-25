@@ -1,7 +1,7 @@
 <div>
 <img src="./img/Profile-elaina.png" width="300" align="right" />
 <br/>
-<img src="./img/aboutme.webp" width="500" />
+<img src="./img/aboutme03.webp" width="500" />
 <br/>
 <br/>
   
@@ -20,7 +20,7 @@
   <br/>-->
 
 <br/>
-<img src="./img/nightfrost.gif" width="500" /><br/>
+<img src="./img/cyber_city.gif" width="500" /><br/>
   
 <sub> *“Las estrellas solo son visibles en la oscuridad.” – Imagine Dragons* </sub>
 <!--

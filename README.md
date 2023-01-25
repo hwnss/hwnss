@@ -3,7 +3,7 @@
 <!--<br/>
 <img src="./img/aboutme03.webp" width="500" />-->
 
-#### 🌱 About me:
+# 🌱 About me:
 
 - Name **Hans Morales**
 
@@ -18,7 +18,7 @@
 - Understand Spanish (Native) and English -<img src="./.gif" width="300" align="right" />
   <br/>
 
-  #### 💫 Repositories:
+  ## 💫 Repositories:
 
   **Nothing for now...**
 

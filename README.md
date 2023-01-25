@@ -1,8 +1,8 @@
 <div>
-<img src="./img/profile04.png" width="200" align="right"/>
+<img src="./img/profile01.png" width="200" align="right"/>
 <br/>
 
-<img src="./img/about_whiteandblack_style0.gif" width="450" />
+<img src="./img/about_whiteandblack0.gif" width="450" />
 
 ## 🌱 About me:
 
@@ -14,7 +14,7 @@
 
 - Good with **Javascript** , **CSS** , **HTML** and **Java**
 
-- Familiar with **Ubuntu** and **Archlinux** (only a little)
+- Familiar with **Debian**, **Ubuntu** and **Archlinux** (only a little)
 
 - Understand Spanish (Native) and English
 
@@ -29,7 +29,7 @@
 - **Frost client Discord**: Is private...
 
 <br/>
-<img src="./img/about_whiteandblack_style.gif" width="450">
+<img src="./img/about_whiteandblack.gif" width="450">
 <br/>
   
 <sub> *“The stars are only visible in the dark.” – Imagine Dragons* </sub>

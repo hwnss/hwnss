@@ -22,9 +22,10 @@
   **Nothing for now...**
 
 <br/>
-<img src="./img/aboutme01.webp" width="500" margin-left= "auto"
-  margin-right= "auto"
-  width= "50%"/>
+<div align="center">
+<img src="./img/aboutme01.webp" width="500">
+</div>
+
 <br/>
   
 <sub> *“The stars are only visible in the dark.” – Imagine Dragons* </sub>

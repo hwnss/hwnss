@@ -1,6 +1,7 @@
 <div>
 <img src="./img/waifu_profile.png" width="200" align="right"/>
 <br/>
+
 <div align="center">
 <img src="./img/aboutme03.webp" width="500" />
 </div>

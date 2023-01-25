@@ -19,7 +19,7 @@
   <br/>
 
 <br/>
-<img src="./img/banner.jpg" width="500" />
+<img src="./img/cat_sunset.jpg" width="500" />
 <br/>
   
 <sub> *“Las estrellas solo son visibles en la oscuridad.” – Imagine Dragons* </sub>

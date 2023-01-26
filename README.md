@@ -8,7 +8,7 @@
 
 - Live in **Arauco, Chile**
 
-- Studying [***Back-End Development***]
+- Studying [***Backend Development***]
 
 - Good with **Javascript** , **CSS** , **HTML** and **Java**
 

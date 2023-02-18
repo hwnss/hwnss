@@ -10,7 +10,7 @@
 
 - Studying [***Backend Development***]
 
-- Good with **Java** , **Spring Boot** , **HTML** **CSS** and **JavaScript**
+- Good with **Java** , **Spring Boot** , **HTML**, **CSS** and **JavaScript**
 
 - Familiar with **Debian**, **Ubuntu** and **Archlinux** (only a little)
 

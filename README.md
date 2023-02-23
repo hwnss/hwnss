@@ -21,8 +21,6 @@
  ## 💫 Repositories:
 
  Coming soon...
-
-- **For the moment all is private**
   
 <sub> *“The stars are only visible in the dark.” – Imagine Dragons* </sub>
 

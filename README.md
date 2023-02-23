@@ -10,7 +10,7 @@
 
 - Studying [***Backend Development***]
 
-- Good with **Java** , **Spring Boot** , **HTML**, **CSS** and **JavaScript**
+- Good with **Java** and **Spring Boot**
 
 - Familiar with **Debian**, **Ubuntu** and **Archlinux** (only a little)
 
@@ -24,7 +24,7 @@
 
 - **Blog web page**: Coming soon...
 
-- **Frost Client**: https://github.com/hanssy-cmd/frost-client (outdated)
+- **Frost Client**: (link) (outdated)
 
 <br/>
 <img src="./img/about_whiteandblack_style.gif" width="500">

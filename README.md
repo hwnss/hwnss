@@ -20,11 +20,9 @@
 
  ## 💫 Repositories:
 
-- **Porfolio web**: Coming soon...
+ Coming soon...
 
-- **Blog web page**: Coming soon...
-
-- **Frost Client**: (link) (outdated)
+- **For the moment all is private**
 
 <br/>
 <img src="./img/about_whiteandblack_style.gif" width="500">

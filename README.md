@@ -23,10 +23,6 @@
  Coming soon...
 
 - **For the moment all is private**
-
-<br/>
-<img src="./img/about_whiteandblack_style.gif" width="500">
-<br/>
   
 <sub> *“The stars are only visible in the dark.” – Imagine Dragons* </sub>
 

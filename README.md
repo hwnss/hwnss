@@ -1,26 +1,16 @@
 <div>
-<img src="./img/profile01.png" width="200" align="right"/>
+<img src="./img/icon.png" width="200" align="right"/>
  <!---<img src="./img/about_whiteandblack_style0.gif" width="500" />-->
  
-## 🌱 About me:
+### Hi there 👋
 
-- Name **Hans M**
+#### I'm Hans Java Developer
 
-- Live in **Arauco, Chile**
-
-- Studying [***Backend Development***]
-
-- Good with **Java** and **Spring Boot**
-
-- Familiar with **Debian**, **Ubuntu** and **Archlinux** (only a little)
-
-- Understand Spanish (Native) and English
-
-- Fun fact: When I was little they stuck a pencil in my eye (my eye is fine XD). 
-
- ## 💫 Repositories:
-
- Coming soon...
+- ⚙️ I use daily: `.java`, `.js`, `.html`, `.css`
+- 🌍 I'm mostly active within the **Minecraft Developer Community**
+- 💬 Ping me about **development** and **draws/design**
+- 📫 Reach me: [twitter.com/s_hxnsss](https://twitter.com/hxnsss)
+- ⚡️ Fun fact: I accidentally buried a pencil in my eye when I was a child XD.
   
 <sub> *“The stars are only visible in the dark.” – Imagine Dragons* </sub>
 

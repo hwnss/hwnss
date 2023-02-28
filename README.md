@@ -6,7 +6,7 @@
 
 #### I'm Hans Java Developer
 
-- ⚙️ I use daily: `.java`, `.js`, `.html`, `.css`
+- ⚙️ I use daily: `.java`, `.rs`
 - 🌍 I'm mostly active within the **Discord Dev's and Minecraft Dev's Community**
 - 💬 Ping me about **development** and **draws/design**
 - 📫 Reach me: [twitter.com/hxnsss_s](https://twitter.com/hxnsss_s)

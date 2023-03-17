@@ -5,7 +5,7 @@
 #### I'm Hans
 
 - ⚙️ I use daily: `.java`, `.rs`
-- 🌍 I'm mostly active within the **Discord Dev's and Minecraft Dev's Community**
+- 🌍 I'm mostly active within the **Minecraft Developer Community**
 - 💬 Ping me about **development** and **draws/design**
 - 📫 Reach me: [twitter.com/hxnsss_s](https://twitter.com/hxnsss_s)
 - ⚡️ Fun fact: I accidentally buried a pencil in my eye when I was a child XD.

@@ -4,7 +4,7 @@
  
 #### I'm Hans
 
-- ⚙️ I use daily: `.java`
+<!-- - ⚙️ I use daily: `.js, html, css` -->
 - 💬 Ping me about **development** and **draws/design**
 - 📫 Reach me: [twitter.com/hxnsss_s](https://twitter.com/hxnsss_s)
 - ⚡️ Fun fact: I accidentally buried a pencil in my eye when I was a child XD.

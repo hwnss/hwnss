@@ -5,7 +5,7 @@
 #### I'm Hans
 
 - ⚙️ I use daily: `html, css, javascript`
-- 🐸 I have used before: `.java`
+- 🐸 I have used before: `java`
 - 💬 Ping me about `web development`
 - 📫 Reach me: [twitter.com/hxnsss_s](https://twitter.com/hxnsss_s)
   

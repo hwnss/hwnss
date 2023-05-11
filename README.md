@@ -6,7 +6,7 @@
 
 - ⚙️ I use daily: `.html .css .js`
 - 🐸 I have used before: `.java`
-- 💬 Ping me about **web development**
+- 💬 Ping me about `web development`
 - 📫 Reach me: [twitter.com/hxnsss_s](https://twitter.com/hxnsss_s)
   
 <sub> *“The stars are only visible in the dark.” – Imagine Dragons* </sub>

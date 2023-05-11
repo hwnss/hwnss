@@ -8,7 +8,6 @@
 - 🐸 I have used before: `.java`
 - 💬 Ping me about **web development**
 - 📫 Reach me: [twitter.com/hxnsss_s](https://twitter.com/hxnsss_s)
-- ⚡️ Fun fact: I accidentally buried a pencil in my eye when I was a child XD.
   
 <sub> *“The stars are only visible in the dark.” – Imagine Dragons* </sub>
 

@@ -4,9 +4,8 @@
  
 #### I'm Hans
 
-- ⚙️ I use daily: `html, css, javascript`
-- 🐸 I have used before: `java`
-- 💬 Ping me about `web development`
+- 🐸 I have used `html, css, javascript, java`
+- 💬 I am a `web development`
 - 📫 Reach me: [twitter.com/hxnsss_s](https://twitter.com/hxnsss_s)
   
 <sub> *“The stars are only visible in the dark.” – Imagine Dragons* </sub>

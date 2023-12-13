@@ -8,6 +8,6 @@
 - 💬 I am a `web development`
 - 📫 Discord: hxnsss
   
-<sub> *“Quién lo diria.” – Kidd voodoo* </sub>
+<sub> *Quién lo diria. – Kidd voodoo* </sub>
 
 </div>

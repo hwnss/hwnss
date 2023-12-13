@@ -4,9 +4,9 @@
  
 #### I'm Hans
 
-- 🐸 I have used `html, css, javascript, java`
-- 💬 I am a `web development`
-- 📫 Discord: hxnsss
+- 🐸 I have used `HTML, CSS, JAVASCRIPT, JAVA`
+- 💬 I am a `Web Development`
+- 📫 In discord like `hxnsss`
   
 <sub> *Quién lo diria. – Kidd voodoo* </sub>
 

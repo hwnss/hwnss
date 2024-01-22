@@ -5,7 +5,7 @@
 #### I'm Hans
 
 - 🐸 I have used `HTML, CSS, JAVASCRIPT, JAVA`
-- 💬 I am a `Web Development`
+- 💬 I'm still learning
 - 📫 In discord like `hxnsss`
   
 <sub> *Hace hambre. – Yo* </sub>

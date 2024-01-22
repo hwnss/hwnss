@@ -8,6 +8,6 @@
 - 💬 I am a `Web Development`
 - 📫 In discord like `hxnsss`
   
-<sub> *Quién lo diria. – Kidd voodoo* </sub>
+<sub> *Hace hambre. – Yo* </sub>
 
 </div>

@@ -7,7 +7,5 @@
 - 🐸 Currently developing in `JAVA`
 - 💬 I'm still learning
 - 📫 In discord like `hxnsss`
-  
-<sub> *Hace hambre. – Yo* </sub>
 
 </div>

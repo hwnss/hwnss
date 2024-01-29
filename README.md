@@ -4,7 +4,7 @@
  
 #### I'm Hans
 
-- 🐸 I have used `HTML, CSS, JAVASCRIPT, JAVA`
+- 🐸 Currently developing in `JAVA`
 - 💬 I'm still learning
 - 📫 In discord like `hxnsss`
   

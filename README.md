@@ -4,8 +4,6 @@
  
 #### I'm Hans
 
-- 🐸 Currently developing in `JAVA`
-- 💬 I'm still learning
-- 📫 In discord like `hxnsss`
+Luego lleno esto...
 
 </div>

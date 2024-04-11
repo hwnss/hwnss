@@ -26,6 +26,6 @@
   <a href="https://www.instagram.com/hansss.05" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:hanss.md@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   ### <img src="https://cdn.discordapp.com/attachments/1212890302923284538/1228074698496147526/totoro_plushie_selfie_.jpg?ex=662ab8b0&is=661843b0&hm=0c7c432dd444e29802518740635b48faa0778d3ff65eeccfb222affc19198658&" width="50" border-radius="30px">
-  <img src="https://img.shields.io/github/followers/{hxnsss}.svg?style=social&label=Follow&maxAge=2592000"</a>
+  <img src="https://img.shields.io/github/followers/hxnsss.svg?style=social&label=Follow&maxAge=2592000"</a>
 </div>
 <br>

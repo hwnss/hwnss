@@ -1,5 +1,5 @@
 <!--The gif of cat and link github-->
-### <img src="https://cdn.discordapp.com/attachments/1212890302923284538/1228072492086595674/c0d1b2c79c46ba49.jpg?ex=662ab6a2&is=661841a2&hm=0112253bf2f5cca85e2e6316262fe06660e2101f4f0cb9c14ca549d00a2d9878&" width="50" border-radius="30px">
+### <img src="https://cdn.discordapp.com/attachments/1212890302923284538/1228074698496147526/totoro_plushie_selfie_.jpg?ex=662ab8b0&is=661843b0&hm=0c7c432dd444e29802518740635b48faa0778d3ff65eeccfb222affc19198658&" width="50" border-radius="30px">
 
 <!--There is the image than is in side right-->
 

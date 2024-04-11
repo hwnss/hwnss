@@ -3,6 +3,8 @@
 
 <!--There is the image than is in side right-->
 
+<div class="tenor-gif-embed" data-postid="22796939" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/shinoa-laugh-shinoa-hiiragi-gif-22796939">Shinoa Laugh GIF</a>from <a href="https://tenor.com/search/shinoa-gifs">Shinoa GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 <!--About me-->
 <div align="left">
   <h3> ⭐ &nbsp;About me </h3>

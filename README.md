@@ -6,6 +6,6 @@
 
 Luego lleno esto...
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=<360927353305694208>)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=360927353305694208)
 
 </div>

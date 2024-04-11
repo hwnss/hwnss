@@ -3,7 +3,7 @@
 
 <!--There is the image than is in side right-->
 
-<img src="https://media1.tenor.com/m/XjHNaIabUe8AAAAC/shinoa-laugh.gif" width="300" "align="right">
+<img src="https://media1.tenor.com/m/XjHNaIabUe8AAAAC/shinoa-laugh.gif" min-width="400px" max-width="400px" width="400px" height="400px" align="right" alt="Error to load the image">
 
 <!--About me-->
 <div align="left">

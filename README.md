@@ -6,6 +6,6 @@
 
 Luego lleno esto...
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/360927353305694208?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/360927353305694208)
+ <img src="https://lanyard.kyrie25.me/api/202740603790819328?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
 
 </div>

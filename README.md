@@ -2,7 +2,7 @@
 ### <img src="https://cdn.discordapp.com/attachments/1212890302923284538/1228059870603907153/756bd790-27e5-45fa-b9ea-bffe551a6808.jpg?ex=662aaae1&is=661835e1&hm=495afbb2213ed4cccf418afab61f7cff40aae599435025008a1d997a3f331c5f&" width="50" border="30px">
 
 <!--There is the image than is in side right-->
-<img boder="30px" src="https://media1.tenor.com/m/XjHNaIabUe8AAAAC/shinoa-laugh.gif" width="300px" align="right" alt="Error to load the image">
+<img boder="30px" src="https://media1.tenor.com/m/XjHNaIabUe8AAAAC/shinoa-laugh.gif" padding="40px" width="300px" align="right" alt="Error to load the image">
 
 <!--About me-->
 <div align="left">

@@ -6,4 +6,6 @@
 
 Luego lleno esto...
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/:360927353305694208)](https://discord.com/users/:360927353305694208)
+
 </div>

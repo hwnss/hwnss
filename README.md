@@ -8,8 +8,8 @@
 <!--About me-->
 <div align="left">
   <h3> ⭐ &nbsp;About me </h3>
-  <p>&nbsp;I am a Backend student with Java, I am 17 years old and I will survive programming one day.</p>
-  <p>And soon I would like to learn Rust.</p>
+  <p>&nbsp;I am a backend developer with Java, and I hope to one day survive programming.</p>
+  <p>PS: idk</p>
 </div>
 
 <!--The skills-->
